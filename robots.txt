@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chothaegh.iclanzan.com/sitemap.xml
